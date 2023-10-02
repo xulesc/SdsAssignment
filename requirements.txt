@@ -1,0 +1,19 @@
+scikit-learn
+dtaidistance
+matplotlib
+pandas
+numpy
+seaborn
+#################################################################
+# specific versions of these libraries that were installed
+# on the development machine when the installation instructions
+# we followed. however we have no reason to believe these are the
+# only versions with which the provided code will execute
+# successfully.
+#################################################################
+# scikit-learn==1.3.0
+# dtaidistance==2.3.10
+# matplotlib==3.7.2
+# pandas==2.1.0
+# numpy==1.25.2
+# seaborn==0.12.2
